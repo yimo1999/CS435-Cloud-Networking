@@ -1,0 +1,2 @@
+forward packet dest 3 nexthop 4 message hello
+forward packet dest 3 nexthop 4 message hello

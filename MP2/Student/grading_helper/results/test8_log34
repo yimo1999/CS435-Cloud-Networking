@@ -1,0 +1,2 @@
+forward packet dest 37 nexthop 35 message pretty far
+forward packet dest 44 nexthop 44 message way more than one hop

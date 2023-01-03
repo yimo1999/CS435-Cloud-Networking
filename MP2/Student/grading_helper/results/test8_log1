@@ -1,0 +1,2 @@
+forward packet dest 33 nexthop 2 message woooo big ole double grid
+forward packet dest 70 nexthop 0 message still aint there

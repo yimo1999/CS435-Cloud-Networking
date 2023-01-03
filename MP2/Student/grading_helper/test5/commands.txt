@@ -1,0 +1,7 @@
+change 11 66 True
+sleep 2
+send 0 77 shortcut already in place
+change 11 66 False
+sleep 5
+send 0 77 shortcut gone!
+

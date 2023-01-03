@@ -1,0 +1,5 @@
+send 0 77 the long path...
+change 11 66 True
+sleep 4
+send 0 77 shortcut available!
+

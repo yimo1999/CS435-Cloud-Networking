@@ -1,0 +1,6 @@
+send 0 3 this is just the example topo... not partioned yet
+change 6 7 False
+change 4 1 False
+change 2 3 False
+sleep 4
+send 0 3 partioned!!

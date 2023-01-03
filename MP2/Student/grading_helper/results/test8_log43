@@ -1,0 +1,2 @@
+sending packet dest 44 nexthop 44 message one hop
+sending packet dest 44 nexthop 42 message way more than one hop

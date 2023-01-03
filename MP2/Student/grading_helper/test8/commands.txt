@@ -1,0 +1,30 @@
+send 0 33 woooo big ole double grid
+send 76 5 more gridness
+send 30 37 pretty far
+send 43 44 one hop
+change 4 42 True
+change 11 22 True
+change 70 60 False
+change 70 71 False
+change 3 4 False
+change 13 14 False
+change 23 24 False
+change 33 34 False
+change 43 44 False
+change 53 54 False
+change 63 64 False
+change 73 74 False
+change 0 7 True
+change 10 17 True
+change 20 27 True
+change 30 37 True
+change 40 47 True
+change 50 57 True
+change 60 67 True
+change 70 77 True
+sleep 5
+send 70 72 also aint there
+send 2 70 still aint there
+send 30 37 pretty far... no longer
+send 43 44 way more than one hop
+

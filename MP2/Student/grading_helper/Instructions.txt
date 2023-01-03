@@ -1,0 +1,15 @@
+
+-Copy your compiled program in the grading script directory
+
+-Figure out the name of the network the router will run on. For the routing to work smoothly make sure your VM is connected to only one network. You can use the "sudo ifconfig" command to see the name of the network.
+
+-Run the grading script as follows:
+	"python autograde.py [program_name] [network_name]"
+	Example: if program_name is "vec_router" and the network_name is "enps03", the command will be:
+	"python autograde.py vec_router enps03"
+
+-If you encounter a permission error with Python subprocesses while running the autograder, add executable permissions to the grader_helper/ directory with chmod -R +x grading_helper/.
+
+-After the successful execution of the grading script, a zip file named out.zip will be created with your program results. Submit this file on the assignment submission page on coursera.
+
+NOTE: Before running the grading script, make sure your program works correctly with the example topology provided in the programming assignment files.

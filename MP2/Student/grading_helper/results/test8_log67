@@ -1,0 +1,2 @@
+forward packet dest 72 nexthop 60 message also aint there
+forward packet dest 70 nexthop 77 message still aint there

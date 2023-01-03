@@ -1,0 +1,2 @@
+forward packet dest 3 nexthop 3 message hey there!
+unreachable dest 70
